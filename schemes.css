@@ -1,0 +1,57 @@
+#f1
+{
+border:2px solid black;
+font-size:25px;
+width :1200px;
+height:200px;
+line-height:25px;
+float:left;
+margin:40px;
+padding:0px;
+ background-image: linear-gradient(to bottom, transparent,#FF7F50);
+}
+#f2
+{
+border:2px solid black;
+font-size:25px;
+width :1200px;
+height:200px;
+line-height:25px;
+float:right;
+margin:40px;
+padding:0px;
+ background-image: linear-gradient(to top, transparent,#FF7F50);
+}
+#div2
+{
+border:2px solid white;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:35px;
+padding:40px;
+}
+#div3
+{
+border:2px solid white;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:35px;
+padding:40px;
+}
+#div4
+{
+border:2px solid white;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:35px;
+padding:40px;
+}

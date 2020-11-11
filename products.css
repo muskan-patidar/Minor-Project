@@ -1,0 +1,102 @@
+#p1
+{
+width:45%;
+height:40%;
+float:left;
+margin:15px;
+padding:6px;
+}
+#p2
+{
+width:45%;
+height:40%;
+float:left;
+margin:15px;
+padding:6px;
+}
+#diva
+{
+width:90%;
+height:90%;
+float:left;
+margin:4px;
+padding:8px;
+}
+#divp
+{
+width:60%;
+height:85%;
+border:2px;
+float:right;
+margin:4px;
+padding:8px;
+font-size:30px;
+}
+#m1
+{
+border:2px solid white;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:20px;
+padding:15px;
+}
+#m2
+{
+border:2px solid white;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:20px;
+padding:15px;
+}
+#m3
+{
+border:2px solid WHITE;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:20px;
+padding:15px;
+}
+#m4
+{
+border:2px solid white;
+font-size:20px;
+width :300px;
+height:300px;
+line-height:35px;
+float:left;
+margin:20px;
+padding:15px;
+}
+#b1
+{
+border:2px solid white;
+font-size:20px;
+width :350px;
+height:350px;
+line-height:35px;
+float:left;
+margin:8px;
+padding:10px;
+align:center;
+}
+#b2
+{
+border:2px solid white;
+font-size:20px;
+width :1000px;
+height:350px;
+line-height:25px;
+float:left;
+margin:8px;
+padding:10px;
+background-image: linear-gradient(to bottom,transparent,#D1E231);
+}
